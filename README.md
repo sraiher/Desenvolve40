@@ -11,7 +11,7 @@ Cada um dos módulos foi encerrado com um projeto com foco nas habilidades desen
 
 # Projeto 01 - black_friday 
 
-A partir do acesso a uma arquivo dado (dados.jso) com uma lista de dicionários, onde cada dicionário representa um produto com: 
+A partir do acesso a uma arquivo dado (dados.json) com uma lista de dicionários, onde cada dicionário representa um produto com: 
 ID (identificador único), o preço e a categoria do produto. 
 
 Funções implementadas: 

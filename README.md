@@ -36,7 +36,7 @@ O rio pode fazer curvas, isto é, rios podem ter formato de L ou até mesmo de c
 Criado um algoritmo que recebe esta lista bi-dimensional e retorna uma lista com os tamanhos dos rios dentro dessa estrutura, os tamanhos de rios dentro da lista resposta não precisam ter uma ordem específica.
 
 - escola
-- 
+
 Dados modelo entidade relacinal e um modelo relacional a partir do DER: 
 
 1.	Implementar um script SQL chamado ‘escola.sql’ com os comandos de criação do banco de dados escola.

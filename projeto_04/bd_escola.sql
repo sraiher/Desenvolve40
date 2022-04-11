@@ -345,15 +345,7 @@ FROM
         INNER JOIN
     disciplina ON disciplina.codigo_disciplina = pre_req.codigo_disciplina_dependencia
 ORDER BY disciplina.nome_disciplina;   
-    
-    
-    
-    
-    
-    
-    
-    
-
+   
 -- f. Produza um relatório com a média das idades dos alunos matriculados em cada curso.
 
 SELECT 

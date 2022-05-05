@@ -1,4 +1,4 @@
-'''
+
 fin = open('words.txt')
 fin.readline()
 line = fin.readline()
@@ -11,11 +11,11 @@ for line in fin:
 print(word)
 fin.close()
 
-Exercício 9.1
+# Exercício 9.1
 
-Escreva um programa que leia words.txt e imprima palavras com mais de 20 caracteres (sem contar whitespaces)
+#Escreva um programa que leia words.txt e imprima palavras com mais de 20 caracteres (sem contar whitespaces)
 
-'''
+
 fin = open('words.txt')
 
 

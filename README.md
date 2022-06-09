@@ -1,11 +1,8 @@
 # Desenvolve40+ / Magalu
 
-<<<<<<< Updated upstream
-## Formação com foco na linguagem Python (108 horas/aula-Let´s Code)
-=======
-## Formação com foco na linguagem Python (108 horas/aula - Let´s Code)
->>>>>>> Stashed changes
 
+
+## Formação com foco na linguagem Python (108 horas/aula - Let´s Code)
 - Lógica de Programação
 - POO
 - Estrutura de Dados
@@ -68,7 +65,7 @@ Dados modelo entidade relacinal e um modelo relacional a partir do DER:
   - Definir as chaves primárias das tabelas.<br>
   - Definir as restrições de domínio de atributo.<br>
   - Conter comandos de inserção de dados em todas as tabelas. <br>
-  
+
   Os dados inseridos serão utilizados na etapa 2 do projeto.
 
 2.	Implementar um script SQL chamado ‘consultas_escola.sql’ com os comandos que respondam às seguintes consultas:

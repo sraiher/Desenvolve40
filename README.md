@@ -1,10 +1,9 @@
 # Desenvolve40+ / Magalu
 
-<<<<<<< HEAD
-=======
+
 
 ## Formação com foco na linguagem Python (108 horas/aula-Let´s Code)
->>>>>>> 86ee1f03444de566b34afebb8cfaa76141fc612c
+
 
 
 ## Formação com foco na linguagem Python (108 horas/aula - Let´s Code)
